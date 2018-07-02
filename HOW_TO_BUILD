@@ -1,0 +1,6 @@
+1) 搭建基础环境
+# apt-get install xutils-dev x11proto-randr-dev 
+
+2) 编译
+# ./autogen.sh
+# make
